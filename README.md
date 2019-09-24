@@ -15,3 +15,6 @@
 1. rm-rf - deletes dicrectory
 
 ## "vi"sual editor
+1. edit/insert command type i 
+1. Command mode esc 
+1. Command to quit :wq
