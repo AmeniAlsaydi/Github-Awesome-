@@ -18,3 +18,9 @@
 1. edit/insert command type i 
 1. Command mode esc 
 1. Command to quit :wq
+
+## Steps to update Repo (push)
+1. Edit your file (optional: git status will show your file RED if it is modified)
+1. git add filename (optional: git status will show your file GREEN if it is staged- meaning ready to be pushed).
+1. git commit -m “write informative message of changes” 
+1. git push
